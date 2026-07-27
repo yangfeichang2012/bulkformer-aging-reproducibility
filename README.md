@@ -12,7 +12,7 @@ The benchmark used 267 healthy or natural-state participant representatives from
 
 ## Versioned archive
 
-Release `v0.5.0` provides:
+Release `v0.5.1` is a metadata-only successor to `v0.5.0` and provides the same canonical archive:
 
 - `BulkFormer_Aging_Reviewer_Package_v0.5_2026-07-21.zip`
 - 244 manifest-tracked files
