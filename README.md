@@ -12,9 +12,9 @@ The benchmark used 267 healthy or natural-state participant representatives from
 
 ## Versioned archive
 
-Release `v0.5.1` is a metadata-only successor to `v0.5.0` and provides the same canonical archive:
+Release `v0.5.2` provides the canonical archive both inside the versioned repository snapshot and as a GitHub release asset:
 
-- `BulkFormer_Aging_Reviewer_Package_v0.5_2026-07-21.zip`
+- `archive/BulkFormer_Aging_Reviewer_Package_v0.5_2026-07-21.zip`
 - 244 manifest-tracked files
 - ZIP size: 22,873,076 bytes
 - SHA-256: `e55860f6f8a94df63069a2825b15cae9600f67a5636c7bba6708bdd1b4b26b10`
