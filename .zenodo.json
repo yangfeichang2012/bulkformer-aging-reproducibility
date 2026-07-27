@@ -1,0 +1,38 @@
+{
+  "title": "Reproducibility archive for study-held-out benchmarking of BulkFormer representations in skeletal-muscle age prediction",
+  "description": "Code, frozen analysis intermediates, predictions, tables, figures, audit evidence and a clean-room recomputation entry point for an eight-study, 267-participant benchmark of BulkFormer mean-pooled representations for skeletal-muscle chronological-age prediction.",
+  "creators": [
+    {
+      "name": "Duan, Chuan-Xin",
+      "affiliation": "National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College"
+    },
+    {
+      "name": "Yang, Lang",
+      "affiliation": "China Japan Friendship Hospital"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit-license",
+  "version": "0.5.0",
+  "keywords": [
+    "BulkFormer",
+    "skeletal muscle",
+    "transcriptomics",
+    "biological aging",
+    "domain shift",
+    "external validation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1016/j.cels.2026.101657",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.20399642",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}

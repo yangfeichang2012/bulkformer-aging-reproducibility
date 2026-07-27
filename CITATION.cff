@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility archive, please cite the archived release."
+title: "Reproducibility archive for study-held-out benchmarking of BulkFormer representations in skeletal-muscle age prediction"
+type: software
+version: 0.5.0
+date-released: 2026-07-27
+authors:
+  - family-names: Duan
+    given-names: Chuan-Xin
+  - family-names: Yang
+    given-names: Lang
+repository-code: "https://github.com/yangfeichang2012/bulkformer-aging-reproducibility"
+license: MIT
+keywords:
+  - BulkFormer
+  - skeletal muscle
+  - transcriptomics
+  - biological aging
+  - domain shift
+  - external validation

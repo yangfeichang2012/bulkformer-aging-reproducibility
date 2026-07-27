@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "release": "v0.5.0",
+  "archive": {
+    "filename": "BulkFormer_Aging_Reviewer_Package_v0.5_2026-07-21.zip",
+    "bytes": 22873076,
+    "sha256": "e55860f6f8a94df63069a2825b15cae9600f67a5636c7bba6708bdd1b4b26b10",
+    "file_count": 244
+  },
+  "scientific_anchors": {
+    "studies": 8,
+    "participants": 267,
+    "primary_mean_study_mae_years": 25.335180,
+    "comparator_mean_study_mae_years": 7.716061,
+    "paired_delta_years": 17.619119,
+    "favorable_studies": "0/8"
+  },
+  "scope": {
+    "recomputation_from_frozen_features": true,
+    "end_to_end_feature_extraction": false,
+    "checkpoint_included": false,
+    "graph_files_included": false,
+    "raw_fastq_or_sra_included": false
+  }
+}
