@@ -4,6 +4,7 @@ title: "Reproducibility archive for study-held-out benchmarking of BulkFormer re
 type: software
 version: 0.5.2
 date-released: 2026-07-27
+doi: 10.5281/zenodo.21628733
 authors:
   - family-names: Duan
     given-names: Chuan-Xin

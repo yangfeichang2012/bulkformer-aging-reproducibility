@@ -1,5 +1,7 @@
 # BulkFormer skeletal-muscle aging benchmark: reproducibility archive
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21628596.svg)](https://doi.org/10.5281/zenodo.21628596)
+
 This repository hosts the versioned reproducibility archive for:
 
 > Study-held-out benchmarking reveals domain-decodable but non-transferring BulkFormer representations for skeletal-muscle age prediction
@@ -18,6 +20,11 @@ Release `v0.5.2` provides the canonical archive both inside the versioned reposi
 - 244 manifest-tracked files
 - ZIP size: 22,873,076 bytes
 - SHA-256: `e55860f6f8a94df63069a2825b15cae9600f67a5636c7bba6708bdd1b4b26b10`
+
+Persistent identifiers:
+
+- Version `v0.5.2`: https://doi.org/10.5281/zenodo.21628733
+- All versions: https://doi.org/10.5281/zenodo.21628596
 
 The archive contains the manuscript snapshot, tables, figures, audit evidence, predictions, fixed analysis intermediates, frozen representation arrays, analysis code, environment locks and a clean-room recomputation entry point.
 
